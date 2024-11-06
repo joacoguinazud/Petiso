@@ -1,1 +1,1 @@
-# Petiso
+This is the code for the first coursework of my Fundamentos de Algoritmos class, done with another student. We were tasked with finding a way of checking if a string is "petiso"; in other words, if the letters B, A, J, and O appear in said order in a string. The petiso.py file contains all the functions that are used and the tp1.py file is used to check various properties of a given string.
